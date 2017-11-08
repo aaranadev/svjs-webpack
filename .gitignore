@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+
+# Locks
+package-lock.json
+yarn.lock
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+#
+node_modules/
+
+# Users Environment Variables
+.lock-wscript
+.tsdrc
+.typingsrc
+
+#IDE configuration files
+.idea
+.vscode
+*.iml
+*.sublime-*
+
+build
+docs
+lib
+test
+tmp
+app
+data/mysql
+.tern-project
+.imdone
+
+# OS X trash files
+.DS_Store
