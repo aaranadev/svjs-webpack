@@ -22,3 +22,7 @@ If the code is to production, launch:
 ```
 npm build
 ```
+
+##Issues
+
+If you have any doubt, issues or errors you can open a new issues in the repository, I'llbe watching
