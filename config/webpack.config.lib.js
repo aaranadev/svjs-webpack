@@ -43,7 +43,7 @@ module.exports = {
     }
   },
   resolve: {
-    modules: ['node_modules', paths.appNodeModules].concat(
+    modules: ['node_modules', paths.appNodeModules, paths.appSrc].concat(
       process.env.NODE_PATH.split(path.delimiter)
         .filter(Boolean)
     ),
